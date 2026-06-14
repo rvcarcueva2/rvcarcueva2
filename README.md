@@ -26,7 +26,7 @@
 
 ---
 
-# About
+# About Me
 
 My experience spans enterprise operations, analytics, application development, cloud deployment, and cross-functional collaboration. I have contributed to platforms supporting educational institutions, election analytics initiatives, content management ecosystems, and enterprise process automation.
 
