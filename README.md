@@ -28,7 +28,7 @@
 
 # About Me
 
-My experience spans enterprise operations, analytics, application development, cloud deployment, and cross-functional collaboration. I have contributed to platforms supporting educational institutions, election analytics initiatives, content management ecosystems, and enterprise process automation.
+My experience spans application development, analytics, cloud deployment, and cross-functional collaboration. I have contributed to platforms supporting educational institutions, election analytics initiatives, content management ecosystems, and process automation.
 
 With a quality-first mindset, I focus on building solutions that are maintainable, secure, performant, and aligned with user needs.
 
