@@ -1,7 +1,6 @@
 # <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4C1D95,50:6D28D9,100:312E81&text=Reycel%20John%20Emmanuel%20Carcueva&fontColor=ffffff&fontSize=42&fontAlignY=40&desc=Full-Stack%20Developer" 
-  width="100%"/>
+
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Building+Scalable+Digital+Products;Writing+Experience+in+Technologies;Collaborative+Team+Player" />
@@ -24,7 +23,6 @@
 
 </div>
 
----
 
 # About Me
 
